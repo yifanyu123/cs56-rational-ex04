@@ -25,4 +25,5 @@ Once you clone this repo, these commands show how to compile and run the code in
 | Compile | `ant compile` |
 | See the targets in the ant file | `ant -p` |
 | Run the JUnit tests | `ant test` |
+| Produce Javadoc | `ant javadoc` |
 
